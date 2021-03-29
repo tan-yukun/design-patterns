@@ -1,4 +1,4 @@
-package com.tan.yukun.observer.classO;
+package com.tan.yukun.observer.achieves;
 
 import java.util.Observable;
 

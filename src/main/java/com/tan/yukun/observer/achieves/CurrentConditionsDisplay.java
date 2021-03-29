@@ -1,6 +1,6 @@
-package com.tan.yukun.observer.classO;
+package com.tan.yukun.observer.achieves;
 
-import com.tan.yukun.observer.interfaceO.DisplayElement;
+import com.tan.yukun.observer.interfaces.DisplayElement;
 
 import java.util.Observable;
 import java.util.Observer;

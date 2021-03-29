@@ -1,4 +1,4 @@
-package com.tan.yukun.observer.interfaceO;
+package com.tan.yukun.observer.interfaces;
 
 /**
  * @author tan_y

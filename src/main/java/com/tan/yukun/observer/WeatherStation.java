@@ -1,7 +1,7 @@
 package com.tan.yukun.observer;
 
-import com.tan.yukun.observer.classO.CurrentConditionsDisplay;
-import com.tan.yukun.observer.classO.WeatherData;
+import com.tan.yukun.observer.achieves.CurrentConditionsDisplay;
+import com.tan.yukun.observer.achieves.WeatherData;
 
 /**
  * @author tan_y
