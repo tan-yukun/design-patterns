@@ -1,8 +1,19 @@
 package com.tan.yukun.decorator.achieves;
 
-public class ChineseSaviorCrepe extends ChineseFood{
+import com.tan.yukun.decorator.interfaces.ChineseFood;
+
+import java.math.BigDecimal;
+
+/**
+ * @author tan_y
+ */
+public class ChineseSaviorCrepe extends ChineseFood {
+    public ChineseSaviorCrepe() {
+        description = "煎饼果子";
+    }
+
     @Override
-    public double cost() {
-        return 0;
+    public BigDecimal cost() {
+        return new BigDecimal("4.32");
     }
 }
