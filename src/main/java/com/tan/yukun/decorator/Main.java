@@ -9,7 +9,7 @@ import com.tan.yukun.decorator.interfaces.ChineseFood;
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         ChineseFood chineseSaviorCrepe = new ChineseSaviorCrepe();
         System.out.println("已点: " + chineseSaviorCrepe.getDescription() + "; 价格: " + chineseSaviorCrepe.cost());
